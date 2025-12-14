@@ -1,0 +1,21 @@
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+#vectorDB
+chromadb
+
+# Web Framework
+fastapi
+uvicorn

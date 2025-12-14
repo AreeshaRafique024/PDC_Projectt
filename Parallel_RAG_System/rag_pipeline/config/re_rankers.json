@@ -1,0 +1,10 @@
+{
+  "models": [
+    { "id": "cross-encoder/ms-marco-MiniLM-L-6-v2", "type": "local", "weight": 1.0 }
+  ],
+  "aggregation": "rrf",
+  "rrf_k": 60,
+  "top_n": 50,
+  "final_k": 5,
+  "parallelism": 4
+}
